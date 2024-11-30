@@ -2,5 +2,5 @@
 - 👀 I’m interested in: I am a game dev working in Unity and I'm looking to release games on steam. I use VS code to program in C++ and Lua and Visual Studio for C#, I animate in Blender
 - 🌱 I’m currently learning: Unity engine, C# and C++
 - 💞️ I’m looking to collaborate on: Story of Alicia private server
-- 📫 How to reach me: Contact me on Discord or Twitter, @ is dawgsofast
+- 📫 How to reach me: Contact me on Discord, @ is dawgsofast
 - ⚡ Fun fact: I'm a big Horror game enthusiast
